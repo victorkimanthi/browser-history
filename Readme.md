@@ -11,7 +11,10 @@
 
 2.Once cloned, open the project using VS Code or the editor you selected.
 
-3.Navigate through the folder structure and open the ShufflingString file.
+3.Navigate through the folder structure and open the Main file.
+  
+  ![img.png](img.png)
+
 
 4.Open Main file then press the run button to run the project.
    ![img.png](images/img.png)
